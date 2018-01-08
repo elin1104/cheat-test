@@ -1,0 +1,7 @@
+git stash
+git checkout branch2
+git stash pop
+
+git stash apply
+
+git stash drop
